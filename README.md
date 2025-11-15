@@ -1,5 +1,3 @@
-FS25 CONVERSION - Originally created by GMNGjoy for FS22, converted and updated for Farming Simulator 25 by Kwtch.
-
 Dramatically increase pallet storage capacity at production buildings, animal farms, and greenhouses! Instead of pallets spawning in a single layer, they now stack vertically and spawn in multiple rows.
 
 WHAT THIS MOD DOES:
