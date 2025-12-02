@@ -1,8 +1,8 @@
---- Spawn Pallets Stacked
--- @author GMNGjoy
--- @copyright 08/12/2024
--- @contact https://github.com/GMNGjoy/FS22_SpawnPalletsStacked
--- @license CC0 1.0 Universal
+--- Spawn Pallets Stacked (FS22 → FS25 Port)
+-- Original Author: GMNGjoy (FS22 version)
+-- FS25 Update/Port: Kwtch
+-- Original License: CC0 1.0 Universal
+-- Notes: Updated for Farming Simulator 25 compatibility
 
 SpawnPalletsStacked = {}
 SpawnPalletsStacked.path = g_currentModDirectory;
@@ -338,7 +338,6 @@ function SpawnPalletsStacked.updateSingleHusbandry(husbandryItem, isRetry)
 	local specHusbandryPallets = husbandryItem.spec_husbandryPallets
 	
 	-- FS25 CHANGE: Husbandries now use fillTypeIndexToPalletSpawner instead of a single palletSpawner
-	-- They can have multiple spawners for different products (eggs, wool, etc.)
 	if not specHusbandryPallets.fillTypeIndexToPalletSpawner then
 		if SpawnPalletsStacked.debugFull then
 			printf("---- - SKIP: No fillTypeIndexToPalletSpawner for %s", husbandryName)
