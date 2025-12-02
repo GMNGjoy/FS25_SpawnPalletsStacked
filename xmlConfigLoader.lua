@@ -1,8 +1,7 @@
 --- XML Config Loader
--- @author GMNGjoy
--- @copyright 08/12/2024
--- @contact https://github.com/GMNGjoy/FS22_SpawnPalletsStacked
--- @license CC0 1.0 Universal
+-- FS25 Update/Port: Kwtch
+-- License: CC0 1.0 Universal
+-- Notes: Updated for Farming Simulator 25 compatibility
 
 XmlConfigLoader = {}
 XmlConfigLoader.path = g_currentModDirectory;
