@@ -1,26 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<modDesc descVersion="99">
+<modDesc descVersion="105">
     <author>Kwtch</author>
     <contributors>Original FS22 mod by GMNGjoy</contributors>
-    <version>1.0.0.0</version>
+    <version>1.0.0.3</version>
     
-    <title>
-        <en>Spawn Pallets Stacked (FS25)</en>
-        <de>Paletten gestapelt spawnen (FS25)</de>
-        <fr>Palettes empilées (FS25)</fr>
-        <it>Pallet Impilati (FS25)</it>
-        <pl>Zrespienie Palet (FS25)</pl>
-        <cs>Vrstvené palety (FS25)</cs>
-        <br>Paletes Empilhadas (FS25)</br>
-        <ru>Уложенные паллеты (FS25)</ru>
-        <ja>積み重ねられたパレット (FS25)</ja>
-        <ko>적층 팔레트 (FS25)</ko>
-    </title>
+<title>
+    <en>Spawn Pallets Stacked Unofficial</en>
+    <de>Paletten Gestapelt Spawnen Inoffiziell</de>
+    <fr>Palettes Empilées Non Officiel</fr>
+    <it>Pallet Impilati Non Ufficiale</it>
+    <pl>Zrespienie Palet Nieoficjalne</pl>
+    <cs>Vrstvené Palety Neoficiální</cs>
+    <br>Paletes Empilhadas Não Oficial</br>
+    <ru>Уложенные Паллеты Неофициально</ru>
+    <ja>積み重ねられたパレット 非公式</ja>
+    <ko>적층 팔레트 비공식</ko>
+</title>
     
     <description>
-        <en><![CDATA[FS25 CONVERSION - Originally created by GMNGjoy for FS22, converted and updated for Farming Simulator 25 by Kwtch.
-
-Dramatically increase pallet storage capacity at production buildings, animal farms, and greenhouses! Instead of pallets spawning in a single layer, they now stack vertically and spawn in multiple rows.
+        <en><![CDATA[Dramatically increase pallet storage capacity at production buildings, animal farms, and greenhouses! Instead of pallets spawning in a single layer, they now stack vertically and spawn in multiple rows.
 
 WHAT THIS MOD DOES:
 • Stacks pallets vertically up to 2 meters high (customizable up to 5m)
@@ -47,12 +45,109 @@ IMPORTANT NOTES:
 • For best results, clear existing pallets from spawn points before enabling this mod
 • Existing pallets in spawn areas may not stack properly until the area is cleared
 
+CHANGELOG v1.0.0.1:
+
+• Removed debug info
+
+CHANGELOG v1.0.0.2:
+• Updated modicon and modDesc.xml
+
+CHANGELOG v1.0.0.3:
+• Updated mod title and moDesc with Unofficial per original mod makers request
+
 License: CC0 1.0 Universal
 
 CREDITS:
 Original FS22 Mod: GMNGjoy (https://github.com/GMNGjoy/FS22_SpawnPalletsStacked)
 FS25 Conversion: Kwtch
         ]]></en>
+		
+		<de><![CDATA[Erhöhen Sie die Palettenkapazität in Produktionsgebäuden, Tierfarmen und Gewächshäusern dramatisch! Anstatt dass Paletten in einer einzigen Schicht spawnen, stapeln sie sich jetzt vertikal und spawnen in mehreren Reihen.
+
+WAS DIESE MOD TUT:
+• Stapelt Paletten vertikal bis zu 2 Meter hoch (anpassbar bis zu 5m)
+• Wollpaletten: spawnen 2 Schichten hoch
+• Ölflaschen: spawnen bis zu 5 Schichten hoch
+• Verdoppelt automatisch einreihige Spawn-Punkte in zwei Reihen, wenn Platz vorhanden ist
+• Beispiel: Getreidemühle geht von 5 Paletten → 30 Paletten (5 × 2 Reihen × 3 Schichten)
+
+KOMPATIBEL MIT:
+• Alle Produktionsgebäude (Bäckerei, Getreidemühle, Sägewerk, Ölmühle, etc.)
+• Tierhaltungen, die Paletten spawnen (Hühner, Schafe, Bienen)
+• Gewächshäuser (alle Typen)
+• Die meisten Mod-Gebäude (solange sie nicht bereits eigenes Stapeln haben)
+
+ANPASSUNG:
+Eine Konfigurationsdatei wird automatisch im modSettings-Ordner bei der ersten Verwendung erstellt. Dies ermöglicht Ihnen:
+• Maximale Stapelhöhe global oder pro Gebäude anzupassen
+• Wiederholungsversuche für Paletten-Spawn zu ändern (Standard 2 Sekunden)
+• Doppelreihen-Feature aktivieren/deaktivieren
+• Spawn-Positionierung für bestimmte Gebäude feinabstimmen
+• Benutzerdefinierte Einstellungen für Mod-Gebäude hinzufügen
+
+WICHTIGE HINWEISE:
+• Für beste Ergebnisse, räumen Sie vorhandene Paletten von Spawn-Punkten, bevor Sie diese Mod aktivieren
+• Vorhandene Paletten in Spawn-Bereichen stapeln sich möglicherweise nicht richtig, bis der Bereich geräumt ist
+
+CHANGELOG v1.0.0.1:
+
+• Debug-Informationen entfernt
+
+CHANGELOG v1.0.0.2:
+• Modicon und modDesc.xml aktualisiert
+
+CHANGELOG v1.0.0.3:
+• Titel und Beschreibung der Mod wurden auf Wunsch der ursprünglichen Mod-Entwickler mit Inoffiziell aktualisiert.
+
+Lizenz: CC0 1.0 Universal
+
+CREDITS:
+Original FS22 Mod: GMNGjoy (https://github.com/GMNGjoy/FS22_SpawnPalletsStacked)
+FS25 Conversion: Kwtch
+        ]]></de>
+				
+		<fr><![CDATA[Augmentez considérablement la capacité de stockage des palettes dans les bâtiments de production, les fermes animales et les serres! Au lieu d’apparaître en une seule couche, les palettes se superposent désormais verticalement et apparaissent en plusieurs rangées.
+
+CE QUE FAIT CE MOD:
+• Empile les palettes verticalement jusqu’à 2 mètres de haut (personnalisable jusqu’à 5 m)
+• Palettes de laine : apparaissent sur 2 couches
+• Bouteilles d’huile : apparaissent jusqu’à 5 couches
+• Double automatiquement les points de spawn à une seule rangée en deux rangées lorsque l’espace le permet
+• Exemple : le moulin à grain passe de 5 palettes → 30 palettes (5 × 2 rangées × 3 couches)
+
+COMPATIBLE AVEC:
+• Tous les bâtiments de production (boulangerie, moulin à grain, scierie, huilerie, etc.)
+• Les élevages d’animaux qui génèrent des palettes (poules, moutons, abeilles)
+• Les serres (tous types)
+• La plupart des bâtiments moddés (tant qu’ils n’ont pas déjà un système d’empilage personnalisé)
+
+PERSONNALISATION:
+Un fichier de configuration est automatiquement créé dans votre dossier modSettings lors de la première utilisation. Il vous permet de:
+• Ajuster la hauteur maximale d’empilage globalement ou par bâtiment
+• Modifier le nombre de tentatives de réapparition des palettes (par défaut 2 secondes)
+• Activer/désactiver la fonctionnalité de double rangée
+• Affiner le positionnement du spawn pour des bâtiments spécifiques
+• Ajouter des paramètres personnalisés pour des bâtiments moddés
+
+NOTES IMPORTANTES:
+• Pour de meilleurs résultats, videz les palettes existantes des zones de spawn avant d’activer ce mod
+• Les palettes déjà présentes dans les zones de spawn peuvent ne pas s’empiler correctement tant que l’espace n’a pas été dégagé
+
+CHANGELOG v1.0.0.1:
+• Suppression des informations de debug
+
+CHANGELOG v1.0.0.2:
+• Mise à jour du modicon et du modDesc.xml
+
+CHANGELOG v1.0.0.3:
+• Titre et description du mod mis à jour avec la mention Non officiel à la demande des créateurs du mod original
+
+Licence: CC0 1.0 Universal
+
+CRÉDITS:
+Mod FS22 original: GMNGjoy (https://github.com/GMNGjoy/FS22_SpawnPalletsStacked)
+Conversion FS25: Kwtch
+        ]]></fr>
     </description>
     
     <iconFilename>icon_SpawnPalletsStacked.dds</iconFilename>
@@ -60,5 +155,6 @@ FS25 Conversion: Kwtch
 
     <extraSourceFiles>
         <sourceFile filename="SpawnPalletsStacked.lua" />
+        <sourceFile filename="xmlConfigLoader.lua" />
     </extraSourceFiles>
 </modDesc>
