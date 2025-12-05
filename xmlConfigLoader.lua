@@ -28,7 +28,7 @@ XmlConfigLoader.retryDelayMs = 2000
 -- xmlConfigFiles
 XmlConfigLoader.internalConfigFile = "xml/internalConfig.xml"
 XmlConfigLoader.defaultConfigFile = "xml/defaultConfig.xml"
-XmlConfigLoader.userConfigFile = "modSettings/SpawnPalletsStacked.xml"
+XmlConfigLoader.userConfigFile = "modSettings/SpawnPalletsStackedUnofficial.xml"
 XmlConfigLoader.xmlTag = 'spawnPalletsStacked'
 
 --- Initialize the loader
