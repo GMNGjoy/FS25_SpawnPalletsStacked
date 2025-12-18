@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <modDesc descVersion="105">
-    <author>Kwtch</author>
-    <contributors>Original FS22 mod by GMNGjoy</contributors>
-    <version>1.0.0.3</version>
+    <author>GMNGjoy</author>
+    <contributors>Conversion to FS25 mod by Kwtch</contributors>
+    <version>1.0.0.0</version>
     
 <title>
     <en>Spawn Pallets Stacked Unofficial</en>
@@ -34,7 +34,7 @@ COMPATIBLE WITH:
 • Most modded buildings (as long as they don't already have custom stacking)
 
 CUSTOMIZATION:
-A configuration file is automatically created in your modSettings folder on first use. This allows you to:
+A configuration file is automatically created in your savegame folder on first use. This allows you to:
 • Adjust maximum stack height globally or per-building
 • Modify the retry attempts to spawn pallets (default 2 seconds)
 • Enable/disable the double-row feature
@@ -45,19 +45,9 @@ IMPORTANT NOTES:
 • For best results, clear existing pallets from spawn points before enabling this mod
 • Existing pallets in spawn areas may not stack properly until the area is cleared
 
-CHANGELOG v1.0.0.1:
-• Removed debug info
-
-CHANGELOG v1.0.0.2:
-• Updated modicon and modDesc.xml
-
-CHANGELOG v1.0.0.3:
-• Updated mod title and modDesc with Unofficial per original mod makers request
-
-License: CC0 1.0 Universal
+License: CC BY-NC-SA 4.0 w/ Conversions Restricted
 
 CREDITS:
-Original FS22 Mod: GMNGjoy (https://github.com/GMNGjoy/FS22_SpawnPalletsStacked)
 FS25 Conversion: Kwtch
         ]]></en>
 		
@@ -88,19 +78,9 @@ WICHTIGE HINWEISE:
 • Für beste Ergebnisse, räumen Sie vorhandene Paletten von Spawn-Punkten, bevor Sie diese Mod aktivieren
 • Vorhandene Paletten in Spawn-Bereichen stapeln sich möglicherweise nicht richtig, bis der Bereich geräumt ist
 
-CHANGELOG v1.0.0.1:
-• Debug-Informationen entfernt
-
-CHANGELOG v1.0.0.2:
-• Modicon und modDesc.xml aktualisiert
-
-CHANGELOG v1.0.0.3:
-• Titel und Beschreibung der Mod wurden auf Wunsch der ursprünglichen Mod-Entwickler mit Inoffiziell aktualisiert.
-
-Lizenz: CC0 1.0 Universal
+Lizenz: CC BY-NC-SA 4.0 w/ Conversions Restricted
 
 CREDITS:
-Original FS22 Mod: GMNGjoy (https://github.com/GMNGjoy/FS22_SpawnPalletsStacked)
 FS25 Conversion: Kwtch
         ]]></de>
 				
@@ -131,19 +111,9 @@ NOTES IMPORTANTES:
 • Pour de meilleurs résultats, videz les palettes existantes des zones de spawn avant d’activer ce mod
 • Les palettes déjà présentes dans les zones de spawn peuvent ne pas s’empiler correctement tant que l’espace n’a pas été dégagé
 
-CHANGELOG v1.0.0.1:
-• Suppression des informations de debug
-
-CHANGELOG v1.0.0.2:
-• Mise à jour du modicon et du modDesc.xml
-
-CHANGELOG v1.0.0.3:
-• Titre et description du mod mis à jour avec la mention Non officiel à la demande des créateurs du mod original
-
-Licence: CC0 1.0 Universal
+Licence: CC BY-NC-SA 4.0 w/ Conversions Restricted
 
 CRÉDITS:
-Mod FS22 original: GMNGjoy (https://github.com/GMNGjoy/FS22_SpawnPalletsStacked)
 Conversion FS25: Kwtch
         ]]></fr>
     </description>
