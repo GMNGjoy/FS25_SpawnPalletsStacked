@@ -3,17 +3,15 @@
     <author>GMNGjoy</author>
     <contributors>Conversion to FS25 mod by Kwtch</contributors>
     <version>1.0.0.0</version>
-    
-<title>
-    <en>Spawn Pallets Stacked</en>
-    <de>Paletten Gestapelt Spawnen</de>
-    <fr>Palettes Empiléesfr>
-    <it>Pallet Impilati</it>
-    <pl>Zrespienie Palet</pl>
-    <cs>Vrstvené Palety</cs>
-    <br>Paletes Empilhadas</br>
-</title>
-    
+    <title>
+        <en>Spawn Pallets Stacked</en>
+        <de>Paletten Gestapelt Spawnen</de>
+        <fr>Palettes Empiléesfr>
+        <it>Pallet Impilati</it>
+        <pl>Zrespienie Palet</pl>
+        <cs>Vrstvené Palety</cs>
+        <br>Paletes Empilhadas</br>
+    </title>
     <description>
         <en><![CDATA[Dramatically increase pallet storage capacity at production buildings, animal farms, and greenhouses! Instead of pallets spawning in a single layer, they now stack vertically and spawn in multiple rows.
 
@@ -47,7 +45,6 @@ License: CC BY-NC-SA 4.0 w/ Conversions Restricted
 CREDITS:
 FS25 Conversion: Kwtch
         ]]></en>
-		
 		<de><![CDATA[Erhöhen Sie die Palettenkapazität in Produktionsgebäuden, Tierfarmen und Gewächshäusern dramatisch! Anstatt dass Paletten in einer einzigen Schicht spawnen, stapeln sie sich jetzt vertikal und spawnen in mehreren Reihen.
 
 WAS DIESE MOD TUT:
@@ -80,7 +77,6 @@ Lizenz: CC BY-NC-SA 4.0 w/ Conversions Restricted
 CREDITS:
 FS25 Conversion: Kwtch
         ]]></de>
-				
 		<fr><![CDATA[Augmentez considérablement la capacité de stockage des palettes dans les bâtiments de production, les fermes animales et les serres! Au lieu d’apparaître en une seule couche, les palettes se superposent désormais verticalement et apparaissent en plusieurs rangées.
 
 CE QUE FAIT CE MOD:
@@ -114,7 +110,6 @@ CRÉDITS:
 Conversion FS25: Kwtch
         ]]></fr>
     </description>
-    
     <iconFilename>icon_SpawnPalletsStacked.dds</iconFilename>
     <multiplayer supported="true"/>
 
